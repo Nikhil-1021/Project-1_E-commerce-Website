@@ -9,11 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Glowing - eCommerce Website</h2>
+  <h2 align="center">ShopSphere - eCommerce Website</h2>
 
-Glowing is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-<a href="https://codewithsadee.github.io/glowing/"><strong>➥ Live Demo</strong></a>
+ShopSphere is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 </div>
 
@@ -47,7 +45,7 @@ git clone https://github.com/codewithsadee/glowing.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+bca22.nikhil.yadav714@sunstone.edu.in
 
 ### License
 
